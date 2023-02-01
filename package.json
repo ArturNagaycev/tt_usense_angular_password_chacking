@@ -15,7 +15,8 @@
     "@angular/core": "^15.1.0",
     "@angular/forms": "^15.1.0",
     "@angular/platform-browser": "^15.1.0",
-    "@angular/platform-browser-dynamic": "^15.1.0"
+    "@angular/platform-browser-dynamic": "^15.1.0",
+    "ngx-trim-directive": "^2.0.0"
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^15.1.3",
